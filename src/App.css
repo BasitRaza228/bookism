@@ -3,3 +3,16 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
 }
+
+.Navbar-links {
+  font-weight: bold;
+  color: aliceblue;
+}
+
+.Navbar-links:hover {
+  border-bottom: 2px solid #424242;
+}
+
+.active {
+  border-bottom: 2px solid #424242;
+}
